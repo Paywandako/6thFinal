@@ -1,0 +1,6 @@
+{
+  "name": "MedBoard Practice Assessment Portal",
+  "description": "Interactive medical board exam prep portal featuring 116 high-yield questions with clinical justifications, randomized timed modes, and customizable printable certificates of clinical achievement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
